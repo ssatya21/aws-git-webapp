@@ -39,3 +39,5 @@ git config --global user.name <username>
 git config --global color.ui true
 
 git reset HEAD <file> --> to unstage the file
+  
+  git pull --> pull the code commits from remote repo to local
